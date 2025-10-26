@@ -3,10 +3,10 @@ This is to do list manager GUI project that interact with text file and save the
 1. Interact with Text file
 2. Use PySimpleGUI for creating GUI
 3. user friendly UI
-4. variuos features like
-  1. Add task
-  2. Mark task Unmark task
-  3. Delete task
-  4. Edit task
-  5. Exit
+4. variuos features like.
+    Add task
+    Mark task and Unmark task
+    Delete task
+    Edit task
+    Exit
   
